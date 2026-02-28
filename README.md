@@ -30,7 +30,7 @@
 
 ## 🤖 Projects
 
-### 🔹 Zyrus – AI Assistant Project
+### 🔹 JARVISH – AI Assistant Project
 
 🚀 I developed my own AI assistant named **Zyrus** using Python and machine learning models.  
 🌐 This project is inspired by intelligent systems such as ChatGPT and Google Gemini.
