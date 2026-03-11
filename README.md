@@ -16,15 +16,16 @@
 
 ## 🧠 Skills & Technologies
 
-- 🐍 Python  
-- 🤖 Machine Learning   
-- 🧩 Problem Solving  
-- 🛠️ Basic AI system development  
+-  Python  
+-  Machine Learning   
+-  Problem Solving  
+-  JAVA (OOP'S)
+-  C
 
 ---
 ## 🎯 Career Goal
 
-🚀 My long-term goal is to become a professional **AI Engineer** and contribute to building intelligent systems that solve real-world problems and create meaningful impact in society.
+🚀 My long-term goal is to become a professional **AI Engineer** and contribute to building intelligent systems that solve real-world problems and create meaningful impact in society and enhance my skills realed to these.
 
 ---
 
@@ -32,7 +33,7 @@
 
 ### 🔹 JARVISH – AI Assistant Project
 
-🚀 I developed my own AI assistant named **Zyrus** using Python and machine learning models.  
+🚀 I developed my own AI assistant named **Jarvish* using Python.  
 🌐 This project is inspired by intelligent systems such as ChatGPT and Google Gemini.
 
 ## 🌱 Personal Values
@@ -48,16 +49,6 @@
 These values guide both my academic life and my professional journey.
 
 ---
-
-## 🤝 Let's Connect & Collaborate
-
-🌐 I am always open to:
-
-- 🤖 AI / ML projects  
-- 👨‍💻 Student collaborations  
-- 📚 Learning communities  
-- 💬 Innovative technical discussions  
-
 📩 If you are working on AI, machine learning, or software development projects, I would be happy to connect and collaborate.
 
 
