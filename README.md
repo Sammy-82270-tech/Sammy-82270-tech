@@ -2,12 +2,12 @@
 
 ## **👨‍🎓 About Me**
 
-🎓 I am a motivated B.Tech Computer Science Engineering (AI & ML) student at C. V. Raman Global University with a strong academic record (9.0 CGPA). I am an aspiring AI Engineer skilled in Python, machine learning, and problem-solving, and I have hands-on experience in building intelligent, real-world projects. Known for my discipline, determination, teamwork, and respectful attitude, I am eager to contribute to impactful AI-driven solutions and continuously grow as a professional in the field of Artificial Intelligence.
+🎓 I am a motivated B.Tech Computer Science Engineering (AI & ML) student at C. V. Raman Global University with a strong academic record (9.35 CGPA). I am an aspiring AI Engineer skilled in Python, machine learning, and problem-solving, and I have hands-on experience in building intelligent, real-world projects. Known for my discipline, determination, teamwork, and respectful attitude, I am eager to contribute to impactful AI-driven solutions and continuously grow as a professional in the field of Artificial Intelligence.
 
 ## 🚀 About Me
 
 - 🎓 Currently pursuing **B.Tech in CSE (AI & ML)**
-- 🏆 Secured **9.0 CGPA** in my previous semester
+- 🏆 Secured **9.35 CGPA** in my previous semester
 - 📚 Actively preparing for **AI/ML and Software Development interviews**
 - 🔍 Strong interest in **real-world AI applications and intelligent systems**
 - 🤝 Open to **collaborations, learning opportunities, and team projects**
